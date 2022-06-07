@@ -15,11 +15,14 @@
 				margin-right: auto;
 
 			}
+			img{
+				margin-top: auto;
+			}
 	</style>
 </head>
 <body>
 	<!-- <div class="maindiv"> -->
-	
+	<img src="download.png" alt="Google">
 	<h5 style='text-align: center'>BILL/INVOICE</h5> 
 	<h5  style='text-align: center'><br> GOVERNMENT OF INDIA </br></h5>
     <h5  style='text-align: center'><br>DEPARTMENT OF CONSUMER AFFAIRS</br></h5>
@@ -27,8 +30,8 @@
 	<h4  style='text-align: center'>P.O. IMMT, BHUBANESWAR. 751013 (ODISHA)</h4> 
 	<h4  style='text-align: center'a>	Ph./Fax -0674-2974215, Emall: rrsibhubaneswar@gmail.c</h4>
 	<table class="center">
-		<tr style="height:100px">
-			<th style="height: 100px;">SL.NO</th>
+		<tr>
+			<th >SL.NO</th>
 			<th style="width:70%">PARTICULARS OF ITEM</th>
 			<th>QUANTITY</th>
 			<th colspan="2">AMOUNT</th>
@@ -38,7 +41,7 @@
 
 
 		<tr>
-			<td ></td>
+			<td></td>
 			<td></td>
 			<td></td>
 			<td>Rs</td>
